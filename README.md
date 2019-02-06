@@ -1,6 +1,20 @@
 # Spectral data for equatorial skies
 Spectral data of Singapore skies
 
+## Terms of use
+For use of the dataset in research, kindly cite my PhD dissertation *Measuring and Modelling Equatorial Light*
+
+```
+@phdthesis{balakrishnan2019,
+    author  = "Balakrishnan, Priji",
+    title   = "Measuring and Modelling Equatorial Light",
+    school  = "Singapore University of Technology and Design",
+    year    = "2019",
+    address = "8 Somapah Rd, Singapore 487372",
+    month   = "jan"
+}
+```
+
 ## Methodology
 The dataset contains 44 measurements of equatorial skies taken in the East of Singapore at four sites of urban and non-industrial nature. The measurements were taken using a Konica Minolta CL-500A illuminance spectrophotometer and include the global spectral irradiance in W/m<sup>2</sup>/nm falling on a horizontal surface from the sun (when present) and the sky at a 1nm pitch from 360nm to 780nm, the sky dome’s Correlated Colour Temperature (CCT) in Kelvin (K), and global illuminance in Lux (lux).
 
